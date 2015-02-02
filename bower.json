@@ -1,0 +1,22 @@
+{
+  "name": "sass-guider",
+  "description": "A set of bootstrap sass files to get started with OOCSS",
+  "version": "0.0.0",
+  "keywords": "SASS, OOCSS, BEM, Boostrap, Foundation",
+  "authors": "Monde Sineke <nsineke@gmail.com>",
+  "private": false,
+  "main": "app/styles/main.scss",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foo/bar.git"
+  },
+  "dependencies": {
+    "modular-scale": "~2.0.5"
+  },
+  "overrides": {
+  }
+}

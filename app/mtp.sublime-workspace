@@ -1,0 +1,1288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"visib",
+				"visible"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"anim",
+				"animate	.animate()"
+			],
+			[
+				"auto",
+				"autoPlay"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"full",
+				"full-width"
+			],
+			[
+				"gallery",
+				"galleryImageID"
+			],
+			[
+				"L",
+				"Longitude"
+			],
+			[
+				"long",
+				"Longitude"
+			],
+			[
+				"la",
+				"Latitude"
+			],
+			[
+				"description",
+				"descriptionForm"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"category",
+				"categoryTitle"
+			],
+			[
+				"data-",
+				"data-mh=  (attribute)"
+			],
+			[
+				"hover",
+				"hover	.hover()"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"cla",
+				"class=  (attribute)"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"plac",
+				"placeholder=  (attribute)"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"color",
+				"color:   (property)"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"re",
+				"File: Reveal"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"projec",
+				"Project: Edit"
+			],
+			[
+				"clsoe",
+				"File: Close All"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"git",
+				"Git: Push Tags"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: New Tag"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"comment",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"settins",
+				"Preferences: Settings - Default"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"please",
+				"ReadmePlease"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"reva",
+				"File: Reveal"
+			],
+			[
+				"save a",
+				"File: Save All"
+			],
+			[
+				"revel",
+				"File: Reveal"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"duplcia",
+				"File: Duplicate"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"default",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tasks: new",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 411.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/mtpsacoza1"
+	],
+	"file_history":
+	[
+		"/C/workstation/Android dev/rosebankApp/mobile.rosebankmall.co.za/config.xml",
+		"/C/workstation/Android dev/rosebankApp/mobile.rosebankmall.co.za/Gruntfile.js",
+		"/C/workstation/Android dev/rosebankApp/mobile.rosebankmall.co.za/www/styles/main.css",
+		"/C/workstation/Android dev/rosebankApp/mobile.rosebankmall.co.za/app/templates/about.html",
+		"/C/workstation/Android dev/rosebankApp/mobile.rosebankmall.co.za/www/index.html",
+		"/C/Users/Titan-PC/Documents/How to add a new local site.md",
+		"/C/workstation/Android dev/rosebankApp/mobile.rosebankmall.co.za/package.json",
+		"/C/workstation/Android dev/rosebankApp/mobile.rosebankmall.co.za/README.md",
+		"/C/workstation/Android dev/ionic-creator-first-app/creator/www/index.html",
+		"/C/workstation/Android dev/test1/myApp/node_modules/bower/node_modules/mout/array/forEach.js",
+		"/C/workstation/Android dev/test1/myApp/node_modules/gulp/completion/fish",
+		"/C/workstation/Android dev/test1/myApp/node_modules/bower/node_modules/mout/object/forIn.js",
+		"/C/workstation/Android dev/test1/myApp/node_modules/bower/node_modules/fstream/lib/file-reader.js",
+		"/C/workstation/Android dev/test1/myApp/www/templates/friend-detail.html",
+		"/C/workstation/Android dev/test1/myApp/www/js/services.js",
+		"/C/workstation/Android dev/test1/myApp/www/index.html",
+		"/C/workstation/Android dev/test1/myApp/gulpfile.js",
+		"/C/workstation/Android dev/test1/myApp/scss/ionic.app.scss",
+		"/C/workstation/Android dev/test1/myApp/www/lib/ionic/scss/ionic.scss",
+		"/C/workstation/Android dev/test1/myApp/www/lib/ionic/scss/_range.scss",
+		"/C/workstation/Android dev/test1/myApp/node_modules/bower/CONTRIBUTING.md",
+		"/C/workstation/Android dev/test1/myApp/config.xml",
+		"/C/workstation/Android dev/test1/myApp/node_modules/bower/node_modules/mout/lang/createObject.js",
+		"/C/workstation/Android dev/test1/myApp/node_modules/bower/lib/core/resolvers/FsResolver.js",
+		"/C/workstation/Android dev/test1/myApp/www/templates/tabs.html",
+		"/C/workstation/Android dev/test1/myApp/www/js/controllers.js",
+		"/C/workstation/Android dev/test1/myApp/platforms/android/cordova/lib/install-device",
+		"/C/workstation/Android dev/test1/myApp/node_modules/gulp-util/lib/isNull.js",
+		"/C/workstation/Android dev/test1/myApp/ionic.project",
+		"/C/Users/Titan-PC/.android/avd/Nexus_5_API_21_x86.ini",
+		"/C/Users/Titan-PC/AppData/Local/Temp/Temp1_android-emulator-skins-master.zip/android-emulator-skins-master/README.md",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/app/scripts/main.js",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/mout/number/MAX_INT.js",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/app/index.html",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/Gruntfile.js",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/app/styles/main.css",
+		"/C/Users/Titan-PC/Downloads/css/animate.css",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/htdocs/saairports/sa_airports_com/app/config/app.php",
+		"/C/xampp/htdocs/saairports/sa_airports_com/app/config/local/app.php",
+		"/C/xampp/htdocs/saairports/sa_airports_com/app/config/local/database.php",
+		"/C/xampp/htdocs/saairports/sa_airports_com/composer.json",
+		"/C/xampp/phpMyAdmin/config.sample.inc.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/saairports/sa_airports_com/bootstrap/start.php",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/Users/Titan-PC/.ssh/github_rsa.pub",
+		"/C/Users/Titan-PC/.ssh/github_rsa",
+		"/C/xampp/htdocs/sa_airports_com/server.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/app/bower_components/modernizr/feature-detects/img-apng.js",
+		"/C/workstation/test/webapp3/app/index.html",
+		"/C/workstation/test/webapp2/app/index.html",
+		"/C/workstation/test/webapp1/app/index.html",
+		"/C/Users/Titan-PC/AppData/Local/Temp/Save For Web AI/Parking map.tmp/Parking map.html",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/C/workstation/SAA/dev/sa-park-map-stand-alone/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/mout/lang/isNull.js",
+		"/C/xampp/htdocs/sa_airports_com/app/config/local/app.php",
+		"/C/xampp/htdocs/sa_airports_com/app/config/app.php",
+		"/C/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/sa_airports_com/app/config/production/database.php",
+		"/C/xampp/htdocs/sa_airports_com/app/config/local/database.php",
+		"/C/xampp/htdocs/sa_airports_com/app/config/staging/database.php",
+		"/C/xampp/htdocs/sa_airports_com/app/start/global.php",
+		"/C/xampp/htdocs/sa_airports_com/bootstrap/start.php",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/workstation/php/php-cli/php.ini-production",
+		"/C/workstation/php/php-cli/php.ini-development",
+		"/C/xampp/htdocs/laravel-test/public/index.php",
+		"//remmy-pc/sa_airports/app/routes.php",
+		"/C/xampp/htdocs/sa_airports_com/sa airports com.sublime-project",
+		"//remmy-pc/sa_airports/app/views/layouts/home.blade.php",
+		"//remmy-pc/sa_airports/public/css/layout.css",
+		"//remmy-pc/sa_airports/app/views/home/parking_ortia.blade.php",
+		"//remmy-pc/sa_airports/app/views/partials/menu/airport.blade.php",
+		"//remmy-pc/sa_airports/app/controllers/HomeController.php",
+		"//remmy-pc/sa_airports/vendor/doctrine/dbal/lib/Doctrine/DBAL/Exception/ReadOnlyException.php",
+		"//remmy-pc/sa_airports/readme.md",
+		"//remmy-pc/sa_airports/phpunit.xml",
+		"//remmy-pc/sa_airports/vendor/symfony/finder/Symfony/Component/Finder/Adapter/PhpAdapter.php",
+		"//remmy-pc/sa_airports/app/views/home/parking_ctia.blade.php",
+		"//remmy-pc/sa_airports/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/charset/from.koi8-r.ser",
+		"//remmy-pc/sa_airports/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/charset/from.us-ascii.ser",
+		"//remmy-pc/sa_airports/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/charset/from.x-mac-roman.ser",
+		"/C/xampp/htdocs/sa_airports_com/public/index.php",
+		"/C/xampp/htdocs/sa_airports_com/composer.json",
+		"/C/xampp/htdocs/sa_airports_com/app/views/home/parkingbus_ortia.blade.php",
+		"/C/xampp/htdocs/sa_airports_com/bootstrap/autoload.php",
+		"/C/xampp/htdocs/sa_airports_com/app/start/local.php",
+		"/C/xampp/mysql/bin/my.cnf",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/mysql/my-default.ini",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/sa_airports_com/bootstrap/paths.php",
+		"/C/xampp/htdocs/sa_airports_com/app/views/home/parking_ortia.blade.php",
+		"/C/xampp/htdocs/sa_airports_com/_ide_helper.php",
+		"/C/xampp/htdocs/asca-properties/cgi-bin/globalFC.pl",
+		"/C/xampp/htdocs/asca-properties/.gitignore",
+		"/C/xampp/htdocs/asca-properties/cgi-bin/titleContent.pl",
+		"/C/xampp/htdocs/asca-properties/js/main.js",
+		"/C/xampp/htdocs/asca-properties/bower_components/jquery/src/manipulation.js",
+		"/C/xampp/htdocs/asca-properties/css/plugins/mmenu/jquery.mmenu.all.css",
+		"/C/xampp/htdocs/asca-properties/partials/scripts.htm",
+		"/C/xampp/htdocs/asca-properties/partials/resources.htm",
+		"/C/xampp/htdocs/asca-properties/css/layout.css",
+		"/C/xampp/htdocs/asca-properties/index.html",
+		"/C/xampp/htdocs/asca-properties/partials/slider.htm",
+		"/C/xampp/htdocs/asca-properties/about-us.html",
+		"/C/xampp/htdocs/asca-properties/partials/header.htm",
+		"/C/xampp/htdocs/asca-properties/current-development-aiport-profile.html",
+		"/C/xampp/htdocs/asca-properties/css/fonts/glyphicons/social/glyphicons-social-regular.svg",
+		"/C/xampp/htdocs/asca-properties/cgi-bin/siteAuthenticate.pl",
+		"/C/xampp/htdocs/asca-properties/cgi-bin/siteNewsArticlesLatest.pl",
+		"/C/xampp/htdocs/asca-properties/bower_components/jquery/src/event/alias.js",
+		"/C/xampp/htdocs/asca-properties/contact-us.html",
+		"/C/xampp/htdocs/asca-properties/contact-us-2.html",
+		"/C/xampp/htdocs/asca-properties/current-developments.html",
+		"/C/xampp/htdocs/asca-properties/development2.html",
+		"/C/xampp/htdocs/asca-properties/events.html",
+		"/C/xampp/htdocs/asca-properties/form-thanks.html",
+		"/C/xampp/htdocs/asca-properties/press-room-article.html",
+		"/C/xampp/htdocs/asca-properties/press-room.html",
+		"/C/xampp/htdocs/asca-properties/project.htm",
+		"/C/xampp/htdocs/asca-properties/projects.html",
+		"/C/xampp/htdocs/asca-properties/transformation.html",
+		"/C/xampp/htdocs/asca-properties/upcoming-event.html",
+		"/C/xampp/htdocs/asca-properties/bower_components/jquery-pjax/README.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"##",
+			"watc",
+			"consol.loe",
+			"js-park-map-icon\"",
+			"js-park-map-icon",
+			"--",
+			"--1",
+			"\">",
+			"id=",
+			"1.05",
+			"btn-link",
+			"class=\"presentation\"",
+			"\"",
+			"park-map-con",
+			":",
+			"assets/javascripts/bootstrap",
+			"-sass-official",
+			"rubberBand",
+			"class=\"park-map-icon ",
+			"park-map-icon",
+			"infinite",
+			"animated",
+			"-pulse",
+			"linear",
+			"1s",
+			"infinite",
+			">",
+			"box",
+			"+ 2%",
+			"2%",
+			"left:",
+			"top",
+			"left",
+			"chain",
+			"--1",
+			"bed",
+			"16",
+			"15",
+			"6",
+			"5",
+			"icon-icon",
+			"4",
+			"3",
+			"ssl",
+			";",
+			"font-awesome",
+			"$heading",
+			"layouts.master",
+			"O.R. Tambo International Airport provides approximately 11,500 public parking bays for your convenience, with varying parking tariffs to suit your pocket.",
+			"parking_ortia.blade.php",
+			"park-and-visit",
+			"O.R. Tambo International Airport provides approximately 11,500 public parking bays for your convenience, with varying parking tariffs to suit your pocket.",
+			"park-and-visit",
+			"Airport Shopping | Duty Free | Shop online | SA Airports",
+			"old",
+			"root",
+			"include_path",
+			"O.R. Tambo International Airport provides approximately 11,500 public parking bays for your convenience, with varying parking tariffs to suit your pocket",
+			".nav-container",
+			".nav-trigger-container",
+			"html.mm-opening .mm-slideout",
+			"wow",
+			"mt-",
+			".relative",
+			"flex-images-hide",
+			"js-header-slide",
+			"js-header-slide+",
+			"flex-images-hide",
+			"removeAnimeClass",
+			"bounceOutLeft",
+			"In",
+			"delay(900)",
+			"slide-head-block slide-head-block",
+			"addClass",
+			"addAnimeClass",
+			"src=",
+			"</li>",
+			"            <li>",
+			"slide hidden",
+			"slide hidden-",
+			"slide ",
+			"src=\"img/slide",
+			"<body>",
+			".sc",
+			".",
+			".s",
+			".",
+			".m-scene ",
+			"src",
+			"ico-topic",
+			".jpg",
+			"src=\"img/slide-",
+			".jpg\" class=\"img-responsive full-width filter-grey \" ",
+			"\"",
+			"mm-subopen mm-fullsubopen",
+			"Company South Africa Events",
+			"Events",
+			"Latest Events",
+			"...",
+			"Around the world, airports have risen up as aerotropolisis or airport cities, hosting sizeable populations of travellers and workers and attracting businesses of every type. Airports offer connectivity, security and infrastructure, and have become important drivers of local economic development.",
+			"\"...",
+			"...",
+			"minSdkVersion",
+			"nav-container",
+			";",
+			".font-30",
+			"font-30",
+			"<p>",
+			" ",
+			"main-con",
+			"AnimationName",
+			"}",
+			";",
+			" ",
+			"airport-profile-block-h",
+			".airport-profile-block-h",
+			"col-sm-6 no-gutter-pad",
+			".mm-menu .mm-list",
+			"mm-list",
+			"$image",
+			"image",
+			"h1",
+			"img-zoom",
+			"min-height-img",
+			"1",
+			"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<body class=\"animsition\">",
+			"Airports Company South Africa",
+			"current-developments.html",
+			"<div class=\"breadcrumbs-con animated anime-delay-1 bounceInRight\">",
+			"<li><a href=\"development.html\">development</a></li>",
+			"<li>Development</li>",
+			"<li class=\"active\"><!--#exec cgi='/cgi-bin/page-heading.pl' --></li>",
+			"<li><a href=\"index.html\">Home</a>",
+			"    <!-- Meta Data\n    ================================================== -->\n    <meta name=\"description\" content=\"...\" /><!-- max 156 characters -->\n    <meta name=\"keywords\" content=\"...\" />\n    <!--#include virtual=\"partials/meta-data.htm\"-->\n\n    <!-- Social Meta Data\n    ================================================== -->\n    <meta property=\"og:title\" content=\"<!--#exec cgi='/cgi-bin/page-heading.pl' -->\" />\n    <meta property=\"og:url\" content=\"http://test12.finedemo.co.za/index.html\" />\n    <!--#include virtual=\"partials/meta-social.htm\"-->\n    <meta property=\"og:description\" content=\"...\" />",
+			"<ol class=\"breadcrumb [ hidden-xs hidden-sm ]\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"project": "mtp.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"friends",
+				"www\\templates\\tab-friends.html"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"inde",
+				"www\\index.html"
+			],
+			[
+				"controler",
+				"www\\js\\controllers.js"
+			],
+			[
+				"tab-dash",
+				"www\\templates\\tab-dash.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"main.css",
+				"app\\styles\\main.css"
+			],
+			[
+				"main",
+				"app\\scripts\\main.js"
+			],
+			[
+				"mian",
+				"app\\scripts\\main.js"
+			],
+			[
+				"main.scs",
+				"app\\styles\\main.css"
+			],
+			[
+				"routes",
+				"app\\routes.php"
+			],
+			[
+				"route",
+				"app\\routes.php"
+			],
+			[
+				"res",
+				"partials\\resources.htm"
+			],
+			[
+				"scripts",
+				"partials\\scripts.htm"
+			],
+			[
+				"h",
+				"partials\\header.htm"
+			],
+			[
+				"airpo",
+				"current-development-aiport-profile.html"
+			],
+			[
+				"scri",
+				"partials\\scripts.htm"
+			],
+			[
+				"slide",
+				"partials\\slider.htm"
+			],
+			[
+				"ab",
+				"about-us.html"
+			],
+			[
+				"header",
+				"partials\\header.htm"
+			],
+			[
+				"scr",
+				"partials\\scripts.htm"
+			],
+			[
+				"header.htm",
+				"partials\\header.htm"
+			],
+			[
+				"deve",
+				"current-developments.html"
+			],
+			[
+				"pjax",
+				"js\\plugins\\pjax\\jquery.pjax.js"
+			],
+			[
+				"nav",
+				"cgi-bin\\nav-tracking.pl"
+			],
+			[
+				"abot",
+				"about-us.html"
+			],
+			[
+				"lay",
+				"css\\layout.css"
+			],
+			[
+				"la",
+				"css\\layout.css"
+			],
+			[
+				"lazysizes.min.js",
+				"js\\plugins\\lazy-sizes\\lazysizes.min.js"
+			],
+			[
+				"slider",
+				"partials\\slider.htm"
+			],
+			[
+				"script",
+				"partials\\scripts.htm"
+			],
+			[
+				"animsition.css",
+				"css\\plugins\\animisition\\animsition.css"
+			],
+			[
+				"jquery.animsition.js",
+				"js\\plugins\\animsition\\jquery.animsition.min.js"
+			],
+			[
+				"nav-tr",
+				"cgi-bin\\nav-tracking.pl"
+			],
+			[
+				"navigation.pl",
+				"cgi-bin\\navigation.pl"
+			],
+			[
+				"heade",
+				"partials\\header.htm"
+			],
+			[
+				"about",
+				"about-us.html"
+			],
+			[
+				"mia",
+				"js\\main.js"
+			],
+			[
+				"jquery.smoothstate.js",
+				"js\\plugins\\smoothstate\\jquery.smoothState.js"
+			],
+			[
+				"pres",
+				"press-room-article.html"
+			],
+			[
+				"eve",
+				"upcoming-event.html"
+			],
+			[
+				"events",
+				"events.html"
+			],
+			[
+				"pre",
+				"press-room.html"
+			],
+			[
+				"even",
+				"events.html"
+			],
+			[
+				"contac",
+				"contact-us.html"
+			],
+			[
+				"upcoming",
+				"upcoming-event.html"
+			],
+			[
+				"meta",
+				"partials\\meta-data.htm"
+			],
+			[
+				"curren",
+				"current-development-aiport-profile.html"
+			],
+			[
+				"layout",
+				"css\\layout.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"news",
+				"cgi-bin\\siteNewsArticle.pl"
+			],
+			[
+				"press",
+				"press-room-article.html"
+			],
+			[
+				"siteprojects.pl",
+				"cgi-bin\\siteProjects.pl"
+			],
+			[
+				"cure",
+				"current-developments.html"
+			],
+			[
+				"sitenewsarticles",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"to",
+				"dev\\todo.todo"
+			],
+			[
+				"scritps",
+				"js\\scripts.js"
+			],
+			[
+				"cur",
+				"current-development-aiport-profile.html"
+			],
+			[
+				"sitepr",
+				"cgi-bin\\siteProject.pl"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"sitenewsarticleslatest.pl",
+				"cgi-bin\\siteNewsArticlesLatest.pl"
+			],
+			[
+				"siteeventslatest.pl",
+				"cgi-bin\\siteEventsLatest.pl"
+			],
+			[
+				"siteevents.pl",
+				"cgi-bin\\siteEvents.pl"
+			],
+			[
+				"sitenewsarticles.pl",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"page-heading.pl",
+				"cgi-bin\\page-heading.pl"
+			],
+			[
+				"meta-charset.htm",
+				"partials\\meta-charset.htm"
+			],
+			[
+				"tot",
+				"dev\\todo.todo"
+			],
+			[
+				"siteproject.pl",
+				"cgi-bin\\siteProject.pl"
+			],
+			[
+				"sitenewsarticle.pl",
+				"cgi-bin\\siteNewsArticle.pl"
+			],
+			[
+				"sitprojects",
+				"cgi-bin\\siteProjects.pl"
+			],
+			[
+				"current",
+				"current-development-bram-fischer.html"
+			],
+			[
+				"slick",
+				"js\\plugins\\slick\\slick.min.js"
+			],
+			[
+				"reou",
+				"partials\\resources.htm"
+			],
+			[
+				"fty",
+				"ftpsync.settings"
+			],
+			[
+				"owl",
+				"js\\plugins\\owl\\owl.carousel.min.js"
+			],
+			[
+				"siteproject",
+				"cgi-bin\\siteProject.pl"
+			],
+			[
+				"site",
+				"cgi-bin\\siteProjects.pl"
+			],
+			[
+				"global",
+				"cgi-bin\\globalFC.pl"
+			],
+			[
+				"airport",
+				"current-development-aiport-profile.html"
+			],
+			[
+				"air",
+				"current-development-george-airport.html"
+			],
+			[
+				"_curre",
+				"_current-development-aiport-profile.html"
+			],
+			[
+				"google-location.js",
+				"js\\plugins\\google\\google-location.js"
+			],
+			[
+				"sc",
+				"partials\\scripts.htm"
+			],
+			[
+				"curre",
+				"current-development-aiport-profile.html"
+			],
+			[
+				"_site",
+				"cgi-bin\\_siteProject.pl"
+			],
+			[
+				"sitepro",
+				"cgi-bin\\siteProject.pl"
+			],
+			[
+				"siteprojects",
+				"cgi-bin\\siteProjects.pl"
+			],
+			[
+				"ft",
+				"ftpsync.settings"
+			],
+			[
+				"glob",
+				"cgi-bin\\globalFC.pl"
+			],
+			[
+				"sitenes",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"develop",
+				"current-developments.html"
+			],
+			[
+				"sitee",
+				"cgi-bin\\siteEvents.pl"
+			],
+			[
+				"sitenews",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"siteevent",
+				"cgi-bin\\siteEvent.pl"
+			],
+			[
+				"evens",
+				"cgi-bin\\siteEvents.pl"
+			],
+			[
+				"todo",
+				"dev\\todo.todo"
+			],
+			[
+				"id",
+				"index.html"
+			],
+			[
+				"bra",
+				"current-development-bram-fischer.html"
+			],
+			[
+				"glo",
+				"cgi-bin\\globalFC.pl"
+			],
+			[
+				"dev",
+				"development.html"
+			],
+			[
+				"de",
+				"development.html"
+			],
+			[
+				"press-r",
+				"press-room-article.html"
+			],
+			[
+				"sitenewsarticleshome.pl",
+				"cgi-bin\\siteNewsArticlesHome.pl"
+			],
+			[
+				"siten",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"articellatest",
+				"cgi-bin\\siteNewsArticlesLatest.pl"
+			],
+			[
+				"/sitenewsarticles",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"form",
+				"form-thanks.html"
+			],
+			[
+				"tha",
+				"form-thanks.html"
+			],
+			[
+				"siteform",
+				"cgi-bin\\siteForm.pl"
+			],
+			[
+				"form-tha",
+				"fomr-thanks.html"
+			],
+			[
+				"_conta",
+				"_contact-us.html"
+			],
+			[
+				"ftp",
+				"ftpsync.settings"
+			],
+			[
+				"siteform.pl",
+				"cgi-bin\\siteForm.pl"
+			],
+			[
+				"conta",
+				"contact-us.html"
+			],
+			[
+				"nav-tracking.pl",
+				"cgi-bin\\nav-tracking.pl"
+			],
+			[
+				"sitecontentblocks.pl",
+				"cgi-bin\\siteContentBlocks.pl"
+			],
+			[
+				"content",
+				"cgi-bin\\siteContentBlocks.pl"
+			],
+			[
+				"sitene",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"layotu",
+				"css\\layout.css"
+			],
+			[
+				"conat",
+				"contact-us.html"
+			],
+			[
+				"mai",
+				"js\\main.js"
+			],
+			[
+				"new",
+				"cgi-bin\\siteNewsArticles.pl"
+			],
+			[
+				"re",
+				"partials\\resources.htm"
+			],
+			[
+				"scritp",
+				"partials\\scripts.htm"
+			],
+			[
+				"resour",
+				"partials\\resources.htm"
+			],
+			[
+				"gitin",
+				".gitignore"
+			],
+			[
+				"random-color.js",
+				"js\\plugins\\random-color\\random-color.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\_xampp.backup\\htdocs\\asca-properties\\asca-properties.sublime-project"
+			],
+			[
+				"as",
+				"C:\\xampp\\htdocs\\asca-properties\\asca-properties.sublime-project"
+			],
+			[
+				"a",
+				"C:\\xampp\\htdocs\\asca-properties\\asca-properties.sublime-project"
+			],
+			[
+				"asca",
+				"C:\\xampp\\htdocs\\asca-properties\\asca-properties.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
