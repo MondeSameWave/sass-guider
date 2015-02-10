@@ -31,12 +31,12 @@ $directions: (
 	'l': 'left',
 	't': 'top',
 	'r': 'right',
-	'b': 'bottom',
+	'b': 'bottom'
 );
 
 $property: (
 	'm': 'margin',
-	'p': 'padding',
+	'p': 'padding'
 );
 
 @each $property-alias, $property-full in $property {
@@ -169,31 +169,68 @@ $brand-colors: (
 ============================= */
 
 /* Media Query Based Alignmenmt */
-.align-xs-top    { vertical-align: top}
-.align-xs-middle { vertical-align: middle}
-.align-xs-bottom { vertical-align: bottom}
+
+$alignments-tb: (
+  't': 'top',
+  'm': 'middle',
+  'b': 'bottom'
+);
+
+$alignments-lr: (
+	'l': 'left',
+	'c': 'center',
+	'r': 'right'
+);
+
+@each $align-alias, $align in $alignments-tb {
+	.align-#{$align-alias} {vertical-align: $align}
+}
+
+@each $align-alias, $align in $alignments-lr {
+	.text-#{$align-alias} {text-align: $align}
+}
 
 @media ( min-width: $screen-sm-min ) {
-    .text-top--sm    { vertical-align: top}
-    .text-middle--sm { vertical-align: middle}
-    .text-bottom--sm { vertical-align: bottom}
-    .text-left--sm   { text-align: left}
-    .text-center--sm { text-align: center}
-    .text-right--sm  { text-align: right}
+    // .text-top--sm    { vertical-align: top}
+    // .text-middle--sm { vertical-align: middle}
+    // .text-bottom--sm { vertical-align: bottom}
+    // .text-left--sm   { text-align: left}
+    // .text-center--sm { text-align: center}
+    // .text-right--sm  { text-align: right}
+		@each $align-alias, $align in $alignments-tb {
+			.text-#{$align-alias}--sm {vertical-align: $align}
+		}
+		@each $align-alias, $align in $alignments-lr {
+			.text-#{$align-alias}--sm {text-align: $align}
+		}
 }
+
 @media ( min-width: $screen-md-min ) {
-    .text-top--md    { vertical-align: top}
-    .text-middle--md { vertical-align: middle}
-    .text-bottom--md { vertical-align: bottom}
-    .text-left--md   { text-align: left}
-    .text-center--md { text-align: center}
-    .text-right--md  { text-align: right}
+    // .text-top--md    { vertical-align: top}
+    // .text-middle--md { vertical-align: middle}
+    // .text-bottom--md { vertical-align: bottom}
+    // .text-left--md   { text-align: left}
+    // .text-center--md { text-align: center}
+    // .text-right--md  { text-align: right}
+		@each $align-alias, $align in $alignments-tb {
+			.text-#{$align-alias}--md {vertical-align: $align}
+		}
+		@each $align-alias, $align in $alignments-lr {
+			.text-#{$align-alias}--md {text-align: $align}
+		}
 }
+
 @media ( min-width: $screen-lg-min ) {
-    .text-top--lg    { vertical-align: top}
-    .text-middle--lg { vertical-align: middle}
-    .text-bottom--lg { vertical-align: bottom}
-    .text-left--lg   { text-align: left}
-    .text-center--lg { text-align: center}
-    .text-right--lg  { text-align: right}
+    // .text-top--lg    { vertical-align: top}
+    // .text-middle--lg { vertical-align: middle}
+    // .text-bottom--lg { vertical-align: bottom}
+    // .text-left--lg   { text-align: left}
+    // .text-center--lg { text-align: center}
+    // .text-right--lg  { text-align: right}
+		@each $align-alias, $align in $alignments-tb {
+			.text-#{$align-alias}--lg {vertical-align: $align}
+		}
+		@each $align-alias, $align in $alignments-lr {
+			.text-#{$align-alias}--lg {text-align: $align}
+		}
 }
